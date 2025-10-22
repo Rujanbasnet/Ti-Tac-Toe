@@ -1,0 +1,5 @@
+{
+  "name": "Fun Tic-Tac-Toe",
+  "description": "A beautifully designed, interactive Tic-Tac-Toe game built with React and Tailwind CSS. Play against a friend and enjoy a modern, clean interface with smooth animations.",
+  "requestFramePermissions": []
+}
